@@ -9,5 +9,6 @@ Web developer from Montreal, CA
 💬 I speak French, English and Javascript.
 
 
-Front-End Development
-HTML5 CSS3 JavaScript React.js Redux Bootstrap 
+Front-End Development:
+HTML5 CSS3 JavaScript React.js Redux Bootstrap
+
