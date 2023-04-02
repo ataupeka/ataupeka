@@ -10,4 +10,4 @@ Web developer from Montreal, CA
 
 
 Front-End Development
-HTML5 CSS3 SASS Styled Components TailwindCSS JavaScript React React Router Redux Bootstrap Green Sock NPM Visual Studio Code GitHub
+HTML5 CSS3 JavaScript React.js Redux Bootstrap 
