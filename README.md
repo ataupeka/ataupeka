@@ -28,4 +28,4 @@ HTML5 CSS3 JavaScript React.js Redux Bootstrap
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataupeka)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataupeka)
