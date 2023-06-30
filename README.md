@@ -38,4 +38,5 @@ HTML5 CSS3 JavaScript React.js Redux Bootstrap
 
 ## 📖  What I am currently learning / improving on
 
-
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
