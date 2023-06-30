@@ -1,15 +1,5 @@
-Hi there, I'm Ala 
-Web developer from Montreal, CA
+![image](https://github.com/ataupeka/ataupeka/assets/121459925/f11b3e7d-2f02-4670-a9a1-bb5974d4984c)
 
-
-💞️ Sport and code 
-👀 I'm interested in software development.
-🌱 I'm currently learning Node.js
-
-
-
-Front-End Development:
-HTML5 CSS3 JavaScript React.js Redux Bootstrap
 
 ## 🛠  Technologies and tools
 
