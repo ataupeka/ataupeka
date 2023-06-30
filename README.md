@@ -25,3 +25,7 @@ HTML5 CSS3 JavaScript React.js Redux Bootstrap
 ## 📖  What I am currently learning / improving on
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="60"/>&nbsp;
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
