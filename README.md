@@ -1,4 +1,5 @@
-![image](https://github.com/ataupeka/ataupeka/assets/121459925/f11b3e7d-2f02-4670-a9a1-bb5974d4984c)
+![image](https://github.com/ataupeka/ataupeka/assets/121459925/ff8ad608-2b9d-423a-9037-38d869b193ee)
+
 
 
 ## 🛠  Technologies and tools
